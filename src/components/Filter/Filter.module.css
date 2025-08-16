@@ -1,0 +1,10 @@
+.filterInput {
+  display: flex;
+  flex-wrap: nowrap;
+  margin: auto;
+  flex: 1;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 12.5px;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}

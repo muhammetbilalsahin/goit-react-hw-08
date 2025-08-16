@@ -1,0 +1,28 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  height: 70vh;
+  font-size: 40px;
+  font-weight: 600;
+  color: #053699;
+  font-family: Arial, sans-serif;
+  justify-content: center;
+  align-items: center;
+  width: 1000px;
+  margin: 25px auto;
+}
+.p {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+  color: #555;
+  margin-top: 10px;
+  line-height: 1.5;
+}
+.icon {
+  font-size: 100px;
+  color: #312f21;
+  margin-bottom: 20px;
+}
