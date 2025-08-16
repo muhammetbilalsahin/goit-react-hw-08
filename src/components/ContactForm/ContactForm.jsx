@@ -1,5 +1,5 @@
 import { useDispatch } from 'react-redux';
-import { addContact } from '../../redux/contacts/operations';
+import { addContact } from '../../redux/contacts/operation';
 import css from './ContactForm.module.css';
 
 export default function ContactForm() {
